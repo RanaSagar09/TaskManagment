@@ -73,8 +73,7 @@ Task
    cd frontend
    npm run dev
  - Seed data (optional)
-   email- maya@gmail.com
-   password - 12345
+    use your database and create your data
  - Visit
    - Frontend ← http://localhost:3000
    - API docs/test ← http://localhost:5000/api (use Postman or curl)
